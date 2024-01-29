@@ -4,10 +4,6 @@ I aminterested in: Building APIs, Angular, Testing, Cloud and more.
 
 ![Sboniso's GitHub stats](https://github-readme-stats.vercel.app/api?username=malwandemabanti&show_icons=true&count_private=true&theme=radical)
 
-#### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malwandemabanti&layout=compact&theme=radical)
-
-
 #### Software Developer
 ---
 **CONTACT ME**  
