@@ -10,7 +10,6 @@ I aminterested in: Building APIs, Angular, Testing, Cloud and more.
 📞 076 042 4312  
 📧 [mabantimalwande@gmail.com](mailto:mabantimalwande@gmail.com)  
 🌐 [LinkedIn Profile](https://www.linkedin.com/in/malwande-mabanti60913b240/)  
-💻 [GitHub](https://github.com/MalwandeMabanti)
 
 #### AREAS OF EXPERTISE
 - Database Management and Updates
@@ -61,6 +60,9 @@ _WeThinkCode_, Johannesburg — Dec 2022
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
 
 ### Database
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
