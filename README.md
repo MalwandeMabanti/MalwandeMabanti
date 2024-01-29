@@ -52,8 +52,8 @@ _WeThinkCode_, Johannesburg — Dec 2022
 
 ### Frameworks & Platforms
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=aspdotnet&logoColor=white)
+![.NET Web API](https://img.shields.io/badge/.NET%20Web%20API-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
+![.NET MVC](https://img.shields.io/badge/.NET%20MVC-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
 
 
 ### Tools & Technologies
