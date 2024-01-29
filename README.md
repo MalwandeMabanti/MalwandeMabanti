@@ -1,6 +1,6 @@
 ### Malwande Mabanti
 ### Hi there 👋, I'm Malwande Mabanti
-I aminterested in: Building APIs, Angular, Testing, Cloud and more.
+I am interested in: Building APIs, Angular, Testing, Cloud and more.
 
 ![Sboniso's GitHub stats](https://github-readme-stats.vercel.app/api?username=malwandemabanti&show_icons=true&count_private=true&theme=radical)
 
