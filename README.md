@@ -80,6 +80,12 @@ Collaborated with educators and tech experts to develop educational games and ap
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
+### Cloud Platforms
+![IIS](https://img.shields.io/badge/IIS-005571?style=for-the-badge&logo=internet-information-services&logoColor=white)
+![Linode](https://img.shields.io/badge/Linode-00C861?style=for-the-badge&logo=linode&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+
 
 ### Soft Skills
 *Communication*  
