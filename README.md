@@ -37,15 +37,6 @@ _WeThinkCode_, Johannesburg — Dec 2022
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 
-
-#### PROJECTS
-- **Payroll System**: C#, DevExtreme, TypeScript, JavaScript
-- **Blog**: C#, Vue.js
-- **OpenAI API**: C#, DevExtreme
-- **Crypto Currency Wallet**: C#, Angular
-
-
-
 #### SKILLS
 ### Programming Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -89,6 +80,13 @@ _WeThinkCode_, Johannesburg — Dec 2022
 *Teamwork & Collaboration*  
 *Adaptability*  
 *Problem-Solving*  
+
+
+#### PROJECTS
+- **Payroll System**: C#, DevExtreme, TypeScript, JavaScript
+- **Blog**: C#, Vue.js
+- **OpenAI API**: C#, DevExtreme
+- **Crypto Currency Wallet**: C#, Angular
 
 #### ACHIEVEMENTS
 **Education Hackathon - Empire Partner Foundation**  
