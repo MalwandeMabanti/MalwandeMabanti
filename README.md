@@ -44,9 +44,7 @@ _WeThinkCode_, Johannesburg — Dec 2022
 - **OpenAI API**: C#, DevExtreme
 - **Crypto Currency Wallet**: C#, Angular
 
-#### ACHIEVEMENTS
-**Education Hackathon - Empire Partner Foundation**  
-Collaborated with educators and tech experts to develop educational games and apps.
+
 
 #### SKILLS
 ### Programming Languages
@@ -91,4 +89,8 @@ Collaborated with educators and tech experts to develop educational games and ap
 *Teamwork & Collaboration*  
 *Adaptability*  
 *Problem-Solving*  
+
+#### ACHIEVEMENTS
+**Education Hackathon - Empire Partner Foundation**  
+Collaborated with educators and tech experts to develop educational games and apps.
 
