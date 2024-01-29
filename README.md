@@ -66,9 +66,6 @@ Collaborated with educators and tech experts to develop educational games and ap
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=aspdotnet&logoColor=white)
 
-### Development Methodologies
-*Agile*  
-*Test-Driven Development (TDD)*  
 
 ### Tools & Technologies
 ![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -85,7 +82,9 @@ Collaborated with educators and tech experts to develop educational games and ap
 ![Linode](https://img.shields.io/badge/Linode-00C861?style=for-the-badge&logo=linode&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-
+### Development Methodologies
+*Agile*  
+*Test-Driven Development (TDD)*  
 
 ### Soft Skills
 *Communication*  
