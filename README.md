@@ -42,10 +42,39 @@ _WeThinkCode_, Johannesburg — Dec 2022
 Collaborated with educators and tech experts to develop educational games and apps.
 
 #### SKILLS
-- **Programming Languages**: C#, JavaScript, TypeScript, Python, Java
-- **Front-End Technologies**: HTML, CSS, Vue.js, Angular
-- **Frameworks & Platforms**: .NET Core, ASP.NET MVC, ASP.NET Web APIs
-- **Development Methodologies**: Agile, TDD
-- **Tools & Technologies**: GIT, Azure, Postman, Visual Studio
-- **Database**: SQL Server
-- **Soft Skills**: Communication, Teamwork, Adaptability, Problem-solving
+### Programming Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### Front-End Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### Frameworks & Platforms
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=aspdotnet&logoColor=white)
+
+### Development Methodologies
+*Agile*  
+*Test-Driven Development (TDD)*  
+
+### Tools & Technologies
+![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+
+### Database
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### Soft Skills
+*Communication*  
+*Teamwork & Collaboration*  
+*Adaptability*  
+*Problem-Solving*  
+
