@@ -71,6 +71,8 @@ Collaborated with educators and tech experts to develop educational games and ap
 
 ### Database
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
 
 ### Soft Skills
 *Communication*  
