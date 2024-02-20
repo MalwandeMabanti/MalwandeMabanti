@@ -70,8 +70,3 @@ I am interested in: Building APIs, Angular, Testing, Cloud and more.
 - **Blog**: C#, Vue.js
 - **OpenAI API**: C#, DevExtreme
 - **Crypto Currency Wallet**: C#, Angular
-
-#### ACHIEVEMENTS
-**Education Hackathon - Empire Partner Foundation**  
-Collaborated with educators and tech experts to develop educational games and apps.
-
