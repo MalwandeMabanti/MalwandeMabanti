@@ -7,7 +7,6 @@ I am interested in: Building APIs, Angular, Testing, Cloud and more.
 #### Software Developer
 ---
 **CONTACT ME**  
-📞 076 042 4312  
 📧 [mabantimalwande@gmail.com](mailto:mabantimalwande@gmail.com)  
 🌐 [LinkedIn Profile](https://www.linkedin.com/in/malwande-mabanti60913b240/)  
 
@@ -16,25 +15,6 @@ I am interested in: Building APIs, Angular, Testing, Cloud and more.
 - System and UI Modernization (Transitioning from VB.NET to Vue.js and ASP.NET MVC platforms)
 - Bug Investigation and Resolution
 
-#### WORK EXPERIENCE
-**Intern Software Developer**  
-_PaySpace, Remote — Jan 2023 - Jul 2023_  
-Developed an employee management tool, investigated bugs, tested API endpoints, updated the UI, and made necessary model updates.
-
-**Junior Software Developer**  
-_Copalcor, Johannesburg — Aug 2023 - Present_  
-Developing an application to improve factory manufacturing processes using .NET Core, Vue.js, and SQL Server.
-
-#### EDUCATION
-**Systems Development**  
-_WeThinkCode_, Johannesburg — Dec 2022
-
-#### CERTIFICATIONS
-
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 
 #### SKILLS
 ### Programming Languages
